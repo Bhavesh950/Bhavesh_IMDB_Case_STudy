@@ -24,7 +24,7 @@ We answer key movie industry questions like:
 
 Click below to launch the notebook online in Binder (no setup required):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bhavesh950/imdb-sql-insights/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bhavesh950/Bhavesh_IMDB_Case_STudy/HEAD)
 
 ## 📁 How to Use
 
