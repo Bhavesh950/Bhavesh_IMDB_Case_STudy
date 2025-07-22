@@ -2,3 +2,6 @@ pandas
 sqlalchemy
 ipython-sql
 jupyter
+matplotlib
+seaborn
+
