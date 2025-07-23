@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Bhavesh950/Bhavesh_IMDB_Case_Study/blob/main/assets/imdb_banner.png?raw=true" alt="IMDb Movie Case Study Banner"/>
+</p>
+
 # 🎬 IMDb SQL Insights
 
 This project presents an in-depth SQL analysis on IMDb-style movie data using Python, SQLAlchemy, and pandas — all within a Jupyter Notebook environment.
